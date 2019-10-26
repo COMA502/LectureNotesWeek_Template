@@ -18,6 +18,7 @@ Template for uploading coding exercises and examples from lecture.
 1. At end of lecture, commit all changes and push
 
 Refer to [the lecture slides](./lecture-slides.pdf) for an overview of the material.
+
 In the `src/main` folders you'll find:
 * [Review of Last Week's Material Including any Quiz or Assignments](./src/main/edu/dmacc/dsmcode/coma510/review)
 * [All In-Class Examples](./src/main/edu/dmacc/dsmcode/coma510/examples)
